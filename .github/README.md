@@ -1,3 +1,4 @@
+7
 #20250613 - Friday thirdteenth
 <img src="../src/images/banner.webp" alt="Ink Kit Banner" style="width: 100%; border-radius: 8px; margin-bottom: 2rem;" />
 
